@@ -14,4 +14,4 @@ LOGO UAM
 
 Correo electronico:** [leonbetancourt@hotmail.com](https://outlook.live.com/mail/0/)
 
-Telegram:** [LBetancourtM](https://web.telegram.org/a/#-1946682292)
+Telegram:** [LBetancourtM](https://web.telegram.org/a/)
