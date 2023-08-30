@@ -7,3 +7,11 @@
 Liga de imagen 2
 
 [DESIERTO](https://github.com/LeoBM04/Informatica/blob/main/Directoriodeimagenes/Desert.jpg) 
+
+
+LOGO UAM
+<img src="https://github.com/jzavalar/Informatica/blob/main/images/conjunto-baseIzt.png" alt="conjunto-baseIzt.png" width="50%"/>
+
+Correo electronico:** [leonbetancourt@hotmail.com](https://outlook.live.com/mail/0/)
+
+Telegram:** [LeoBM04](https://github.com/)
