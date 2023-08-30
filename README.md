@@ -12,6 +12,6 @@ Liga de imagen 2
 LOGO UAM
 <img src="https://github.com/jzavalar/Informatica/blob/main/images/conjunto-baseIzt.png" alt="conjunto-baseIzt.png" width="50%"/>
 
-Correo electronico:** [leonbetancourt@hotmail.com](https://outlook.live.com/mail/0/)
+Correo electronico:** [leonbetancourt@hotmail.com](mailto:https://outlook.live.com/mail/0/)
 
 Telegram:** [LBetancourtM](https://web.telegram.org/a/)
